@@ -24,7 +24,7 @@ Anything, what would like to see cover ? I like to make videos where i record my
 I plan on doing as much as possible in the future. From Richard Feynman i learned to enjoy teaching to not only help but 
 expand my knowledge.
 Next video will be on the last test of CodeCademy [Bash Scripting course](https://www.codecademy.com/learn/bash-scripting)
-You can find my previous video going through the last test of CodeCademy "Learn The Command Line course" [here](https://youtu.be/0U_DLksgi6o).
+You can find my previous video going through the last test of CodeCademy "[Learn The Command Line course](https://www.codecademy.com/courses/learn-the-command-line/quizzes/learn-the-command-line-command-line-1)" [here](https://youtu.be/0U_DLksgi6o).
 
 ### Reach me anytime here:
 - [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
