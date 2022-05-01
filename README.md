@@ -28,5 +28,5 @@ You can find my previous video going through the last test of CodeCademy "[Learn
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
 
-# AND ... last but not least, have to give a lot of love there .... 
+### AND ... last but not least ...
 [My parent's business](https://lepetitcaddie.com/) ! Most beautiful pyjamas (and comfortable!) you'll ever wear !! :)
