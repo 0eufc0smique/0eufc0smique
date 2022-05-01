@@ -14,7 +14,7 @@ A personal project in mental health.
 The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) and on 18th September 2022 the Holberton School Computer Science where i'll specialise in blockchain & algorithm.
 
 ### How i prepare myself:
-For now i use mostly CodeCademy. My profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau).
+For now i use mostly [CodeCademy](https://www.codecademy.com/learn). My profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau).
 As i write those lines i am finishing a Git & GitHub course.
 Next comes Python, then SQL.
 During the course i'll consolidate my knowledge on other aspects that i talk more in depth on [my blog](https://www.jeremyperreau.com)
