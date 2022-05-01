@@ -15,7 +15,7 @@ The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.c
 For now i use mostly [CodeCademy](https://www.codecademy.com/learn). My profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau).
 As i write those lines i am finishing a [Git & GitHub](https://www.codecademy.com/learn/learn-git) course.
 Next comes Python, then SQL.
-During the course i'll consolidate my knowledge on other aspects that i talk more in depth on [my blog](https://www.jeremyperreau.com)
+During the May bootcamp i'll consolidate my knowledge on other aspects, and once done, until the school start i'll cover the basics of CS with [edX Harvard course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) program. I'll also add heavy math studies as i'm stuck very low. I talk more in depth about that on [my blog](https://www.jeremyperreau.com)
 
 ### Ask me about :
 Anything, what would like to see cover ? I like to make videos where i record myself going through different tests.
