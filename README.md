@@ -29,4 +29,4 @@ You can find my previous video going through the last test of CodeCademy "[Learn
 - [Twitter](https://twitter.com/jeremy_perreau)
 
 ### AND ... last but not least ...
-[My parent's business](https://lepetitcaddie.com/) ! Most beautiful pyjamas (and comfortable!) you'll ever wear !! :)
+[My parent's pyjamas and co](https://lepetitcaddie.com/) ! Most beautiful (and comfortable!) you'll ever wear !! :)
