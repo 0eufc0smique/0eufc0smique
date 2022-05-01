@@ -15,7 +15,7 @@ The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.c
 The 18th September 2022 i'll start the Holberton School Computer Science program and specialise myself on their blockchain & algorithm program.
 
 ### How i prepare myself:
-As i write those lines i am finishing a Git & GitHub course
+As i write those lines i am finishing a Git & GitHub course.
 Next comes Python, then SQL.
 During the course i'll consolidate my knowledge on other aspects that i talk more in depth on [my blog](https://www.jeremyperreau.com)
 
