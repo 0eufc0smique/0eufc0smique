@@ -14,7 +14,7 @@ Next comes Python, then SQL.
 During the May bootcamp i'll consolidate my knowledge on other aspects, and once done, until the school start i'll cover the basics of CS with [edX Harvard course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) program. I'll also add heavy math studies as i'm stuck very low. I talk more in depth about that on [my blog](https://www.jeremyperreau.com)
 
 ### Ask me about :
-Anything, what would like to see cover ? I like to make videos where i record myself going through different tests.
+Anything! What would like to see cover ? I like to make videos where i record myself going through different tests.
 I plan on doing as much as possible in the future. From Richard Feynman i learned to enjoy teaching to not only help but 
 expand my knowledge.
 Next video will be on the last test of CodeCademy [Bash Scripting course](https://www.codecademy.com/learn/bash-scripting).
