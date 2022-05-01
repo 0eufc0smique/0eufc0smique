@@ -1,7 +1,7 @@
 ## Hi !
 
 I'm a computer science student with a project in mental health, and heavy programming skills are required ... 
-good because i really felt in love with programming ;) ... A (very) strong attraction that started at the beginning of March 2022 :))
+good because i really felt in love with it :)) ... A (very) strong attraction that started at the beginning of March 2022 :))
 
 ### Why ?
 When doing the [Holberton School](https://www.holbertonschool.com/)'s entrance tests we had to build a website (first time) which was a truly exciting experience. It felt like the first "real" touch with programming ... and tons of ideas grew from there. You can see it [here](https://jerepe.github.io/my_first_website/).
