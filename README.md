@@ -2,12 +2,10 @@
 
 I'm a computer science student with a project in mental health, and heavy programming skills are required ... 
 good because i really felt in love with programming ;)
-A (very) strong attraction to programming started at the beginning of March 2022 when doing the [Holberton School](https://www.holbertonschool.com/)'s
-entrance tests and since then decided to go fully in.
+A (very) strong attraction to programming started at the beginning of March 2022 
 
 ### Why ?
-Building a website for the first time was quite an exciting experience, and tons of ideas grew from there. You can see it [here](https://jerepe.github.io/my_first_website/).
-When learning about GitHub Pages i found myself uploading its code back online. That was 100% unexpected and pretty cool ;) 
+When doing the [Holberton School](https://www.holbertonschool.com/)'s entrance tests we had to build a website (first time) which was a truly exciting experience. It felt like the first "real" touch with programming ... and tons of ideas grew from there. You can see it [here](https://jerepe.github.io/my_first_website/).
 
 ### I’m currently working on ...
 A personal project in mental health. 
