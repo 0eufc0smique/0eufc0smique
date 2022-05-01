@@ -21,7 +21,7 @@ During the May bootcamp i'll consolidate my knowledge on other aspects, and once
 Anything, what would like to see cover ? I like to make videos where i record myself going through different tests.
 I plan on doing as much as possible in the future. From Richard Feynman i learned to enjoy teaching to not only help but 
 expand my knowledge.
-Next video will be on the last test of CodeCademy [Bash Scripting course](https://www.codecademy.com/learn/bash-scripting)
+Next video will be on the last test of CodeCademy [Bash Scripting course](https://www.codecademy.com/learn/bash-scripting).
 You can find my previous video going through the last test of CodeCademy "[Learn The Command Line](https://www.codecademy.com/courses/learn-the-command-line/)" course [here](https://youtu.be/0U_DLksgi6o).
 
 ### Reach me anytime here:
