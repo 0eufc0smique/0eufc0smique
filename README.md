@@ -1,5 +1,4 @@
-# Hi !
-
+## Hi !
 > I'm a computer science student with a project in mental health, and heavy programming skills are required ... 
 > good because i really felt in love with programming ;)
 > A (very) strong attraction to programming started at the beginning of March 2022 when doing the Holberton School's
@@ -10,9 +9,9 @@
 > When learning GitHub Pages i found myself uploading its code back online. That was 100% unexpected and pretty cool ;) 
 
 ### I’m currently working on ...
-A personal project in mental health. 
-The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials)
-The 18th September 2022 i'll start the Holberton School Computer Science program and specialise myself on their blockchain & algorithm program.
+> A personal project in mental health. 
+> The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials)
+> The 18th September 2022 i'll start the Holberton School Computer Science program and specialise myself on their blockchain & algorithm program.
 
 ### How i prepare myself:
 > As i write those lines i am finishing a Git & GitHub course
