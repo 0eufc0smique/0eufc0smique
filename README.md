@@ -7,7 +7,7 @@ entrance tests and since then decided to go fully in.
 
 ### Why ?
 Building a website for the first time was quite an exciting experience, and tons of ideas grew from there. You can see it [here](https://jerepe.github.io/my_first_website/).
-When learning GitHub Pages i found myself uploading its code back online. That was 100% unexpected and pretty cool ;) 
+When learning about GitHub Pages i found myself uploading its code back online. That was 100% unexpected and pretty cool ;) 
 
 ### I’m currently working on ...
 A personal project in mental health. 
