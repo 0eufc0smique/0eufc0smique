@@ -5,7 +5,7 @@ It felt like the first "real" touch with programming ... and tons of ideas grew 
 
 ### I’m currently working on ...
 A personal project in mental health. 
-The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) and on 18th September 2022 the Holberton School Computer Science where i'll specialise in blockchain & algorithm.
+The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) and on 18th September 2022 the Holberton School where i'll study more in depth CS and specialise in blockchain & algorithm.
 
 ### How i prepare myself:
 For now i use mostly [CodeCademy](https://www.codecademy.com/learn). My profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau).
