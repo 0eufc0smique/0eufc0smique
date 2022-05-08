@@ -3,16 +3,19 @@
 At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, and we had to build a website (first time), which was a truly exciting experience. 
 It felt like the first "real" touch with programming, my first "real" dive into it ... and tons of ideas grew from there. You can see it [here](https://jerepe.github.io/my_first_website/).
 
+### My experience:
+20 hours of Python at the start of 2021. 15 hours of C# at the start of 2022. Now in May 2022, coding daily since first March 2022. I learned about: the CLI, Shell, Zsh, Emacs, scripting, HTML, CSS, JS, and now Python.
+
 ### I’m currently working on ...
 A personal project in mental health. 
-The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) and on 18th September 2022 the Holberton School where i'll study more in depth CS and specialise in blockchain & algorithm.
+The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) (ends the 26th June 2022) and on 18th September 2022, the Holberton School, where i'll study more in depth CS, and specialise in blockchain & algorithm.
 Also, i add to my repos descriptions on why i did things the way i did them, mostly for me to better remember why i did things this way. Publicly journaling ;)
 
 ### How i prepare myself:
 For now i use mostly [CodeCademy](https://www.codecademy.com/learn), and my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau).
 As i write those lines i am finishing a [Git & GitHub](https://www.codecademy.com/learn/learn-git) course.
 Next comes Python, then SQL.
-During the May bootcamp i'll consolidate my knowledge on other aspects, and once done, until the Holberton school start i'll study more in depth cybersecurity by taking on the eJPT certification delivered by the INE, and add some HackTheBox practice.
+During the May bootcamp i'll consolidate my knowledge on other aspects, and once done, until the Holberton school starts, i'll study more in depth cybersecurity by taking on the eJPT certification delivered by the INE, and add some HackTheBox practice.
 I'll also add math studies, mostly to increase my mathematical thinking skills. I talk more in depth about that on [my blog](https://www.jeremyperreau.com)
 
 ### Ask me about :
