@@ -27,6 +27,7 @@ You can find my previous video going through the last test of CodeCademy "[Learn
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
 - [My blog](https://www.jeremyperreau.com/) (One more time just in case)
+- [My CodeCademy profil](https://www.codecademy.com/profiles/jeremyperreau)
 
 ### Also:
 [My parent's pyjamas and co](https://lepetitcaddie.com/) ! Most beautiful (and comfortable!) you'll ever wear !! :)
