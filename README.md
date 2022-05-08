@@ -22,7 +22,7 @@ expand my knowledge.
 Next video will be on the last test of CodeCademy [Bash Scripting course](https://www.codecademy.com/learn/bash-scripting).
 You can find my previous video going through the last test of CodeCademy "[Learn The Command Line](https://www.codecademy.com/courses/learn-the-command-line/)" course [here](https://youtu.be/0U_DLksgi6o).
 
-### Reach me anytime here:
+### Where to track me:
 - [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
