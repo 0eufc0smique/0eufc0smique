@@ -1,21 +1,20 @@
 ## Hi ! I'm a computer science student
 
-At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, and we had to build a website (first time), which was a truly exciting experience. 
-It felt like the first "real" touch with programming, my first "real" dive into it ... and tons of ideas grew from there. You can see it [here](https://jerepe.github.io/my_first_website/).
+At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey. See [my blog here](https://jerepe.github.io/my_first_website/) :)
 
 ### My experience:
-20 hours of Python at the start of 2021. 15 hours of C# at the start of 2022. Now in May 2022, coding daily since first March 2022. I learned about: the CLI, Shell, Zsh, Emacs, scripting, HTML, CSS, JS, and now Python.
+20 hours of Python at the start of 2021. 15 hours of C# at the start of 2022.
+I took coding back seriously beginning of March 2022.
+As of May 2022 i learned about: the CLI, Shell, Zsh, Emacs, scripting, HTML, CSS, JS, and now Python 3.
 
-### I’m currently working on ...
-A personal project in mental health. 
-The 7th May 2022 i'll attend [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) (ends the 26th June 2022) and on 18th September 2022, the Holberton School, where i'll study more in depth CS, and specialise in blockchain & algorithm.
-Also, i add to my repos descriptions on why i did things the way i did them, mostly for me to better remember why i did things this way. Publicly journaling ;)
+### I’m currently looking for a job! And also :
+Aside a project in mental health, the 7th May 2022 i started studying cybersecurity and pentesting through [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) (ends the 26th June 2022) and on 18th September 2022, i'll be part of the Holberton School Computer Science program where i will specialize in Blockchain & Algorithms.
+Also, as a reflection exercise i added to my repositories descriptions on why i did things the way i did them. Publicly journaling ;)
 
 ### How i prepare myself:
-For now i use mostly [CodeCademy](https://www.codecademy.com/learn), and my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau).
-As i write those lines i am finishing a [Git & GitHub](https://www.codecademy.com/learn/learn-git) course.
-Next comes Python, then SQL.
-During the May bootcamp i'll consolidate my knowledge on other aspects, and once done, until the Holberton school starts, i'll study more in depth cybersecurity by taking on the eJPT certification delivered by the INE, and add some HackTheBox practice.
+For now i use mostly [CodeCademy](https://www.codecademy.com/learn), and my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau), and am currently learning Python 3 on it.
+During May's bootcamp i'll consolidate my knowledge on cybersecurity generally (networks and systems), Python, HTML and SQL. 
+Once done, until the Holberton school starts, i'll study more in depth cybersecurity by taking on the eJPT certification delivered by the INE, and add some HackTheBox practice.
 I'll also add math studies, mostly to increase my mathematical thinking skills. I talk more in depth about that on [my blog](https://www.jeremyperreau.com)
 
 ### Ask me about :
@@ -23,7 +22,7 @@ Anything! What would like to see cover ? I like to make videos where i record my
 I plan on doing as much as possible in the future. From Richard Feynman i learned to enjoy teaching to not only help but 
 expand my knowledge.
 Next video will be on the last test of CodeCademy [Bash Scripting course](https://www.codecademy.com/learn/bash-scripting).
-You can find my previous video going through the last test of CodeCademy "[Learn The Command Line](https://www.codecademy.com/courses/learn-the-command-line/)" course [here](https://youtu.be/0U_DLksgi6o).
+You can find my previous videos going through the last test of CodeCademy "[Learn The Command Line](https://www.codecademy.com/courses/learn-the-command-line/)" course [here](https://youtu.be/0U_DLksgi6o) and going through a [Python test on Loops and Lists here](https://www.youtube.com/watch?v=K8RElJn5ckM&t=503s)
 
 ### Where to track me:
 - [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
