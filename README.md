@@ -1,6 +1,6 @@
 ## Hi ! I'm a computer science student
 
-At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey. See [my blog here](https://jerepe.github.io/my_first_website/) :)
+At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey. See [my first website here](https://jerepe.github.io/my_first_website/) :)
 
 ### My experience:
 20 hours of Python at the start of 2021. 15 hours of C# at the start of 2022.
