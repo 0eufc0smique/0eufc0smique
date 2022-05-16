@@ -28,7 +28,7 @@ You can find my previous videos going through the last test of CodeCademy "[Lear
 - [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
-- [My blog](https://www.jeremyperreau.com/) (One more time just in case)
+- [My blog](https://www.jeremyperreau.com/)
 - [My CodeCademy profil](https://www.codecademy.com/profiles/jeremyperreau)
 
 ### Also:
