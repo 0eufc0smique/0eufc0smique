@@ -29,7 +29,7 @@ You can find my previous videos going through the last test of CodeCademy "[Lear
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
 - [My blog](https://www.jeremyperreau.com/)
-- [My CodeCademy profil](https://www.codecademy.com/profiles/jeremyperreau)
+- [My CodeCademy profil](https://www.codecademy.com/profiles/xiaomix21)
 
 ### Also:
 [My parent's pyjamas and co](https://lepetitcaddie.com/) ! Most beautiful (and comfortable!) you'll ever wear !! :)
