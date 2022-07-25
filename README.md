@@ -4,18 +4,18 @@ At the beginning of March 2022 i was going through the [Holberton School](https:
 
 ### My experience:
 20 hours of Python at the start of 2021. 15 hours of C# at the start of 2022.
-I took coding back seriously beginning of March 2022.
-As of May 2022 i learned about: the CLI, Shell, Zsh, Emacs, scripting, HTML, CSS, JS, and now Python 3.
+I took coding back seriously beginning of March 2022 and since then didn't stop ! ;)))
+As of July 2022 i learned about: the CLI, Shell, Zsh, Emacs, scripting, HTML, CSS, JS, and now Python 3.
 
-### I’m currently looking for a job! And also :
-Aside a project in mental health, the 7th May 2022 i started studying cybersecurity and pentesting through [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) (ends the 26th June 2022) and on 18th September 2022, i'll be part of the Holberton School Computer Science program where i will specialize in Blockchain & Algorithms.
+### Also :
+Aside a project in mental health, the 7th May 2022 i started studying cybersecurity and pentesting through [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) (ends the 26th June 2022).
 Also, as a reflection exercise i added to my repositories descriptions on why i did things the way i did them. Publicly journaling ;)
 
 ### How i prepare myself:
-For now i use mostly [CodeCademy](https://www.codecademy.com/learn), and my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau), and am currently learning Python 3 on it.
-During May's bootcamp i'll consolidate my knowledge on cybersecurity generally (networks and systems), Python, HTML and SQL. 
-Once done, until the Holberton school starts, i'll study more in depth cybersecurity by taking on the eJPT certification delivered by the INE, and add some HackTheBox practice.
-I'll also add math studies, mostly to increase my mathematical thinking skills. I talk more in depth about that on [my blog](https://www.jeremyperreau.com)
+At the beginning i mostly used [CodeCademy](https://www.codecademy.com/learn), and my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau). Currently learning Python 3 using TryHackMe and Udemy in order to pass entrance tests for the Ecole2600.
+Once entrance done, i'll finish the TryHackMe Complete Beginner Learning Path.
+I'll also add math up to calculus & linear algebra, mostly to increase my mathematical/critical thinking skills. I talk more in depth about that on [my blog](https://www.jeremyperreau.com)
+To that i've added a bit of chess daily practice.
 
 ### Ask me about :
 Anything! What would like to see cover ? I like to make videos where i record myself going through different tests.
