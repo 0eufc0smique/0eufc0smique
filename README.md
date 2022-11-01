@@ -7,6 +7,8 @@ At the beginning of March 2022 i was going through the [Holberton School](https:
 I took coding back seriously beginning of March 2022 and since then didn't stop ! ;)))
 As of July 2022 i learned about: the CLI, Shell, Zsh, Emacs, scripting, HTML, CSS, JS, and now Python 3.
 
+11/1/22 Update : Currently going through the Codecademy Computer Science learning path & TryHackMe "Complete Beginner" learning path while doing few CTFs here and there on picoCTF.org.
+
 ### Also :
 Aside a project in mental health, the 7th May 2022 i started studying cybersecurity and pentesting through [Jedha's Cybersecurity Bootcamp](https://en.jedha.co/formations/cybersecurity-essentials) (ends the 26th June 2022).
 Also, as a reflection exercise i added to my repositories descriptions on why i did things the way i did them. Publicly journaling ;)
