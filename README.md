@@ -1,6 +1,7 @@
 ## Hi ! I'm a cybersecurity & computer-science student
 
-At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey. See <a href="https://jerepe.github.io/my_first_website/" target="_blank" rel="noreferrer"> my first website here </a> :)
+At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey. See <a href="https://jerepe.github.io/my_first_website/" target="_blank" rel="noreferrer"> my first website here </a> (both on "pause" since few months).
+I have then been accepted at École2600 and since then been preparing myself in order to acquire the skills necessary to go through their program more easily.
 
 ### My experience:
 I have been studying Python3, SQL, Computer Architecture & Cybersecurity using online courses.
