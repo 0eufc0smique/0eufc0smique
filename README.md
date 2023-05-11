@@ -22,8 +22,8 @@ Using deeplearning.ai i am learning about Prompt Engineering.
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
 - [My blog](https://www.jeremyperreau.com/)
-- [My CodeCademy profil](https://www.codecademy.com/profiles/xiaomix21)
-- [My TryHackMe profil](https://tryhackme.com/p/XiamoDS28)
+- [CodeCademy profil](https://www.codecademy.com/profiles/xiaomix21)
+- [TryHackMe profil](https://tryhackme.com/p/XiamoDS28)
 
 ### Also:
 [My parent's pyjamas and co](https://lepetitcaddie.com/) ! Most beautiful (and comfortable!) you'll ever wear !:)
