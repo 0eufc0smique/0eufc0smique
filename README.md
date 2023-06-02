@@ -14,8 +14,8 @@ Using TryHackMe and TCM Security Academy i have been learning about Cybersecurit
 Using Udemy and Brilliant i have been learning about Algebra I & II, and will keep doing so until i have learned about Linear Algebra and Calculus (changes could occur).
 Using EdClub i am learning how to type faster.
 Using CodeCademy and Charles Severance courses i learned about Python3, SQL and Computer Architecture (my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau)). 
-Using Andrew Ng courses i will be learning the basics of AI (and maybe use it to further deepen my knowledge).
-Using deeplearning.ai i am learning about Prompt Engineering.
+Using Andrew Ng courses on Coursera and deeplearning.ai i will be learning the basics of AI, Prompt Engineering, and maybe keep using it to further deepen my knowledge.
+Using learnprompting.org i am learning about Prompt Engineering.
 
 ### Where to spot me:
 - [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
