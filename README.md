@@ -7,9 +7,9 @@ I have then been accepted at École2600 and since then been preparing myself in 
 I have been studying Python3, SQL, Computer Architecture & Cybersecurity using online courses.
 With the recent changes in the tech world i have been much more attracted to AI and plan on taking more math & AI courses to deepen my knowledge and expand my skills into it.
 Step by step i'll use those skills to work on personal projects.
-I recently started learning about prompt engineering.
+In 2023 i joined Ecole 2600 and have felt in love with low level programming, C and Linux. 
 
-### How i prepare myself:
+### How i prepared myself for school:
 Using TryHackMe and TCM Security Academy i have been learning about Cybersecurity.
 Using Udemy and Brilliant i have been learning about Algebra I & II, and will keep doing so until i have learned about Linear Algebra and Calculus (changes could occur).
 Using EdClub i am learning how to type faster.
