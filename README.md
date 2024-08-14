@@ -1,17 +1,15 @@
-## Hi ! I'm a cybersecurity & computer-science student
+## Hi ! I'm a cybersecurity & overall computer-science student
 
-At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey (both on "pause" since few months). See <a href="https://jerepe.github.io/my_first_website/" target="_blank" rel="noreferrer"> my first website here </a>.
-I have then been accepted at École2600 and since then been preparing myself in order to acquire the skills necessary to go through their program more easily.
+At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey (both on "pause" since a lot of months ^^). See <a href="https://jerepe.github.io/my_first_website/" target="_blank" rel="noreferrer"> my first website here </a>.
+I have then been accepted at École2600 where i discovered a very very strong interest to things like kernel development, building my own CPU on breadboards, and ... exploit developement :))) 
 
 ### My experience:
-I have been studying Python3, SQL, Computer Architecture & Cybersecurity using online courses.
-With the recent changes in the tech world i have been much more attracted to AI and plan on taking more math & AI courses to deepen my knowledge and expand my skills into it.
-Step by step i'll use those skills to work on personal projects.
+Since mid 2022 i have been studying Python3, SQL, Computer Architecture & Cybersecurity mostly using online courses.
 In 2023 i joined Ecole 2600 and have felt in love with low level programming, C and Linux. 
 
 ### How i prepared myself for school:
-Using TryHackMe and TCM Security Academy i have been learning about Cybersecurity.
-Using Udemy and Brilliant i have been learning about Algebra I & II, and will keep doing so until i have learned about Linear Algebra and Calculus (changes could occur).
+Using TryHackMe, TCM Security Academy, HTB and (not enough but still did) Root-Me ... i have been learning about Cybersecurity.
+Using Udemy and Brilliant i have been learning Maths.
 Using EdClub i am learning how to type faster.
 Using CodeCademy and Charles Severance courses i learned about Python3, SQL and Computer Architecture (my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau)). 
 
