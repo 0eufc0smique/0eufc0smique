@@ -17,7 +17,7 @@ Using CodeCademy and Charles Severance courses i learned about Python3, SQL and 
 - [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
 - [Twitter](https://twitter.com/jeremy_perreau)
-- [My blog](https://www.jeremyperreau.com/)
+- [My blog](https://www.jeremyperreau.com/) (coming back but when, i have no idea ^^)
 - [CodeCademy profil](https://www.codecademy.com/profiles/xiaomix21)
 - [TryHackMe profil](https://tryhackme.com/p/XiamoDS28)
 
