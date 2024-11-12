@@ -1,23 +1,18 @@
-## Hi ! I'm a cybersecurity & overall computer-science student
+## Hi ! Low level nerd here 
 
-At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch. I really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there: i started a blog, and a YouTube channel to share my computer science journey (both on "pause" since a lot of months ^^). See <a href="https://jerepe.github.io/my_first_website/" target="_blank" rel="noreferrer"> my first website here </a>.
-I have then been accepted at École2600 where i discovered a very very strong interest to things like kernel development, building my own CPU on breadboards, and ... exploit developement :))) 
+At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch and i really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there.
+In 2023 i have then been accepted at École2600 where i discovered a strong interest for low level stuff and especially for exploit developement and reverse engineering.
 
-### My experience:
-Since mid 2022 i have been studying Python3, SQL, Computer Architecture & Cybersecurity mostly using online courses.
-In 2023 i joined Ecole 2600 and have felt in love with low level programming, C and Linux. 
-
-### How i prepared myself for school:
+### How i prepared myself for 2600:
 Using TryHackMe, TCM Security Academy, HTB and (not enough but still did) Root-Me ... i have been learning about Cybersecurity.
 Using Udemy and Brilliant i have been learning Maths.
 Using EdClub i am learning how to type faster.
 Using CodeCademy and Charles Severance courses i learned about Python3, SQL and Computer Architecture (my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau)). 
 
 ### Where to spot me:
-- [Linkedin](https://www.linkedin.com/in/jeremyperreau/)
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
-- [Twitter](https://twitter.com/jeremy_perreau)
-- [My blog](https://www.jeremyperreau.com/) (coming back but when, i have no idea ^^)
+- [Twitter](https://twitter.com/c0smic3gg)
+- [blog](jerepe.github.io)
 - [CodeCademy profil](https://www.codecademy.com/profiles/xiaomix21)
 - [TryHackMe profil](https://tryhackme.com/p/XiamoDS28)
 
