@@ -11,8 +11,8 @@ Using CodeCademy and Charles Severance courses i learned about Python3, SQL and 
 
 ### Where to spot me:
 - [YouTube](https://www.youtube.com/channel/UC3N4Gdvnjj3nTX3bwGvZ80w)
-- [Twitter](https://twitter.com/c0smic3gg)
-- [blog](jerepe.github.io)
+- [Twitter](https://twitter.com/0eufc0smique)
+- [blog](https://0eufc0smique.github.io/)
 - [CodeCademy profil](https://www.codecademy.com/profiles/xiaomix21)
 - [TryHackMe profil](https://tryhackme.com/p/XiamoDS28)
 
