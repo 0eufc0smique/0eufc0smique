@@ -8,7 +8,7 @@ Using TryHackMe, TCM Security Academy, HTB and some Root-Me ... i have been lear
 Using Udemy and Brilliant i have been learning Maths.  
 Using EdClub i am learning how to type faster.  
 Using LeetCode i am practicing Rust.
-Using CodeCademy and Charles Severance courses i learned about Python3, SQL and Computer Architecture (my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau)). 
+Using CodeCademy and Charles Severance courses i learned about Python3, SQL and Computer Architecture (my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau)).  
 Using LeetCode i am practicing Rust.
 
 
