@@ -1,4 +1,4 @@
-## Hi ! Rust & Low level nerd here 
+## Hi ! Rust & Low level nerd here (looking for a Rust job!!)
 
 At the beginning of March 2022 i was going through the [Holberton School](https://www.holbertonschool.com/)'s entrance tests, where i had to build a website (first time) from scratch and i really had a blast: it felt like the first "real" touch with programming, my first "real" dive into it. Tons of ideas grew from there.
 In 2023 i have then been accepted at École2600 where i discovered a strong interest for low level stuff and especially for exploit developement and reverse engineering.
