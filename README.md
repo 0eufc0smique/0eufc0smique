@@ -4,9 +4,9 @@ At the beginning of March 2022 i was going through the [Holberton School](https:
 In 2023 i have then been accepted at École2600 where i discovered a strong interest for low level stuff and especially for exploit developement and reverse engineering.
 
 ### How i prepared myself for 2600:
-Using TryHackMe, TCM Security Academy, HTB and some Root-Me ... i have been learning about Cybersecurity 
-Using Udemy and Brilliant i have been learning Maths
-Using EdClub i am learning how to type faster
+Using TryHackMe, TCM Security Academy, HTB and some Root-Me ... i have been learning about Cybersecurity.  
+Using Udemy and Brilliant i have been learning Maths.  
+Using EdClub i am learning how to type faster.  
 Using CodeCademy and Charles Severance courses i learned about Python3, SQL and Computer Architecture (my profil can be seen [here](https://www.codecademy.com/profiles/jeremyperreau)). 
 
 ### Where to spot me:
